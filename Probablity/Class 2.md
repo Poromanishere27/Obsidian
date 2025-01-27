@@ -63,7 +63,8 @@ The number of ways choosing 1 red and two blues is
 $$
 {6 \choose 1} \times {5 \choose 2} 
 $$
-Thus $$
+Thus 
+$$
 \frac {{6 \choose 1} \times {5 \choose 2} }{{11\choose 3}} = \frac{6 \times 10}{165} = \frac {60}{165}= \frac {4}{11}
 $$
 ![[Pasted image 20250127115711.png]]
