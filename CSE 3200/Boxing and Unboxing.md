@@ -1,4 +1,6 @@
 
+![[Recording 20250128121703.m4a]]
+
 ### **1. Overview of Boxing and Unboxing**
 
 Boxing and unboxing refer to the process of converting **primitive types** into **wrapper classes** and vice versa. While Kotlin itself handles this process seamlessly, understanding how boxing works is essential for interoperability with Java, where wrapper classes are extensively used.
